@@ -1,8 +1,13 @@
 {
-    "name": "node-grovepi",
-    "version": "2.2.0",
-    "description": "GrovePi library for Node.js",
-    "keywords": ["grovepi", "robot", "gpio", "i2c"],
+    "name": "unisannio-node-grovepi",
+    "version": "1.0.0",
+    "description": "Unisannio's GrovePi library for Node.js",
+    "keywords": [
+        "grovepi",
+        "robot",
+        "gpio",
+        "i2c"
+    ],
     "dependencies": {
         "async": "1.*",
         "i2c-bus": "1.*",
@@ -16,12 +21,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/marcellobarile/GrovePi.git"
+        "url": "https://github.com/woland7/GrovePi.git"
     },
-    "author": "Marcello Barile <marcello.barile@gmail.com> (http://www.barile.eu)",
+    "author": "Antonio De Iasio <antonio.deiasio@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/marcellobarile/GrovePi/issues"
+        "url": "https://github.com/woland7/GrovePi/issues"
     },
-    "homepage": "https://github.com/marcellobarile/GrovePi"
+    "homepage": "https://github.com/woland7/GrovePi"
 }
